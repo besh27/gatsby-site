@@ -14,7 +14,7 @@ export default () => {
             <Hero />
             <Layout>
                 <h1>Home</h1>
-                <p>Hello Minnesota!</p>
+                <p>Hello Chicago!</p>
                 <Link to="/about">About</Link>
                 <h2>Read my Blog</h2>
                 {posts.map(post => (
